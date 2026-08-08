@@ -2,7 +2,7 @@
 
 > Basketball Smart Wearable · IMU + UWB + AI Motion Intelligence
 
-LYKON Motion Lab 是 LYKON 篮球智能护臂项目的核心研发仓库。
+LYKON Motion Lab 是 LYKON 篮球智能护臂项目的核心研发仓库。该项目在探月计划黑客松中获得PhysicalAI主赛道第三名以及Hyper3D Rodin特别奖
 
 我们正在构建一套面向大众篮球的智能穿戴系统，通过双护臂 IMU、UWB 定位、视频蒸馏学习和 AI 事件推理技术，将真实比赛转化为可记录、可分析、可回放、可成长的数字篮球资产。
 
